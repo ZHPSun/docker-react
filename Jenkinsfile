@@ -11,7 +11,7 @@ pipeline {
         }
         stage('Run Tests') {
             steps {
-                echo 'Put your testing command here if you have'
+                echo 'modified on 110225 18:53'
             }
         }
         stage('Publish Image') {
